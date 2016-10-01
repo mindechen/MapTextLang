@@ -71,6 +71,6 @@
 	}
 	"Added extra shininess to the coins."
 	{
-		"chi"		"** **"
+		"chi"		"**剩下的币被高亮了**"
 	}
 }
