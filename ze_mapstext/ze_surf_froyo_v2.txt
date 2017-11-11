@@ -456,11 +456,11 @@
 	}
 	"***30s left!***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有30秒**"
 	}
 	"***5s left!***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒**"
 	}
 	"***5!***"
 	{
@@ -709,15 +709,15 @@
 	}
 	"***Zombies will come in 8s!"
 	{
-		"chi"		"** **"
+		"chi"		"**8秒后僵尸就会来**"
 	}
 	"***Wait for 30s until the box breaks!***"
 	{
-		"chi"		"** **"
+		"chi"		"**等30秒直到盒子破碎**"
 	}
 	"***Hold for 35s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守35秒**"
 	}
 	"sync_version"
 	{
@@ -725,71 +725,71 @@
 	}
 	"***10s left to win!***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后胜利**"
 	}
 	"***You have 30s to fight Boss Star!***"
 	{
-		"chi"		"** **"
+		"chi"		"**你有30秒去打Boss Star**"
 	}
 	"***A traveller has picked Boss Stars ultimate --- Wave!***"
 	{
-		"chi"		"** **"
+		"chi"		"**有人拿了Boss Stars 终极 --- 波!**"
 	}
 	"***A traveller has picked unknown crystal!***"
 	{
-		"chi"		"** **"
+		"chi"		"**有人拿了未知的水晶**"
 	}
 	"***Wood will break in 30s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**木头30秒后破碎**"
 	}
 	"***You have 60s to fight Boss Star!***"
 	{
-		"chi"		"** **"
+		"chi"		"**你有60秒去打Boss Star**"
 	}
 	"***Boss Star will destroy all travellers in 5s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后Boss Star 放终极拉!**"
 	}
 	"***Box will break in 35s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**箱子35秒后破碎**"
 	}
 	"***Box will break in 5s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**箱子5秒后破碎**"
 	}
 	"***Find and touch the star!***"
 	{
-		"chi"		"** **"
+		"chi"		"**找到并碰到星星**"
 	}
 	"***The teleportion crystal will be active in 60s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**60秒后启动传送水晶**"
 	}
 	"***Well!Boss Froyo has been defeated!***"
 	{
-		"chi"		"** **"
+		"chi"		"**好的!Boss Froyo被干死了**"
 	}
 	"***A traveller has picked Boss Froyos ultimate --- Blast!***"
 	{
-		"chi"		"** **"
+		"chi"		"**有人拿了Boss Froyos 终极 --- 爆炸**"
 	}
 	"***Wait for 40s until the box breaks!***"
 	{
-		"chi"		"** **"
+		"chi"		"**等40秒直到盒子破碎**"
 	}
 	"***Press the button and activate teleportion!***"
 	{
-		"chi"		"** **"
+		"chi"		"**按按钮来启动传送**"
 	}
 	"***Well!Teleportion will be active in 60s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**不错!传送60秒后启动**"
 	}
 	"***Teleportion is active!Go ahead,travellers!***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送好了!该跑了**"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
@@ -797,22 +797,22 @@
 	}
 	"***Boss Star will appear in 20s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**Boss Star 20秒后出现**"
 	}
 	"***Box will break in 20s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**盒子会在20秒后破碎**"
 	}
 	"***Box will break in 10s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**盒子会在10秒后破碎**"
 	}
 	"***Wait for 10s until the box breaks!***"
 	{
-		"chi"		"** **"
+		"chi"		"**等10秒直到盒子破碎**"
 	}
 	"***Hold for 25s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒**"
 	}
 }
